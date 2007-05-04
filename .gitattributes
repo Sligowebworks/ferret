@@ -38,12 +38,15 @@ PHP/app/application.php -text
 PHP/app/create.tables.php -text
 PHP/app/report_functions.php -text
 PHP/app/user_and_session_functions.php -text
+PHP/bluemarinestyle.css -text
 PHP/class/AppState.php -text
 PHP/class/DisplayContainer.php -text
 PHP/class/MenuLookAndFeel.php -text
 PHP/class/RecordSet.php -text
+PHP/class_list.css -text
 PHP/commit.php -text
 PHP/confirm_login.php -text
+PHP/drupal.css -text
 PHP/file.php -text
 PHP/final_commit.php -text
 PHP/guardian_hispanic_report.php -text
@@ -237,8 +240,6 @@ Util/update_from_csv_TA.php -text
 Util/update_from_csv_guardian.php -text
 Util/update_from_csv_prj_mgr.php -text
 Util/update_from_csv_teacher.php -text
-/bluemarinestyle.css -text
-/class_list.css -text
 corrections/Parent_Survey_database__checking_system__1_(1).csv -text
 corrections/Parent_Survey_database__checking_system__1_(1).xls -text
 corrections/final_flat_files.zip -text
@@ -272,7 +273,6 @@ corrections/teacher_final.xls -text
 corrections/teacher_flat.csv -text
 corrections/teacher_flat.xls -text
 corrections/teacher_tee -text
-/drupal.css -text
 mockup/bluemarinestyle.css -text
 mockup/drupal.css -text
 mockup/mockup.php -text
