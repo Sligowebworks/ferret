@@ -1,0 +1,3062 @@
+mysql> source guardian.sql;
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected, 1 warning (0.00 sec)
+
+Query OK, 2 rows affected (0.01 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.01 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected, 1 warning (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.11 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.01 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.01 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.15 sec)
+
+Query OK, 2 rows affected (0.01 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.01 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected, 1 warning (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.22 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected, 1 warning (0.01 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.01 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.15 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.01 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.15 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.01 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.01 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.15 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.01 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.01 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.14 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.01 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected, 1 warning (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.01 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.15 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.01 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.14 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.01 sec)
+
+Query OK, 2 rows affected, 1 warning (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.15 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.15 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.01 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.08 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected, 2 warnings (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.01 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.01 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.15 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.01 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.01 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.14 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.01 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.01 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.16 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.15 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.01 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.01 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.14 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.01 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.15 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 2 rows affected (0.00 sec)
+
+Query OK, 1 row affected, 1 warning (0.00 sec)
+
+Query OK, 2 rows affected, 1 warning (0.01 sec)
+
+Query OK, 1 row affected, 1 warning (0.00 sec)
+
+Query OK, 1 row affected, 1 warning (0.00 sec)
+
+Query OK, 1 row affected, 1 warning (0.00 sec)
+
+Query OK, 1 row affected, 1 warning (0.00 sec)
+
+Query OK, 1 row affected, 1 warning (0.00 sec)
+
+Query OK, 1 row affected, 1 warning (0.00 sec)
+
+Query OK, 1 row affected, 1 warning (0.00 sec)
+
+Query OK, 1 row affected, 1 warning (0.00 sec)
+
+Query OK, 1 row affected, 1 warning (0.00 sec)
+
+Query OK, 1 row affected, 1 warning (0.00 sec)
+
+Query OK, 1 row affected, 1 warning (0.00 sec)
+
+Query OK, 1 row affected, 1 warning (0.00 sec)
+
+Query OK, 1 row affected, 1 warning (0.00 sec)
+
+mysql> notee
