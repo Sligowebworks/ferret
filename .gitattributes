@@ -1,5 +1,4 @@
 * text=auto !eol
-/.project -text
 PHP/ProjectManager.php -text
 PHP/TA_page02_form.php -text
 PHP/TA_page02_verify.php -text
