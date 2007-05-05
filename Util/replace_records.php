@@ -4,6 +4,10 @@
  *
  * To change the template for this generated file go to
  * Window - Preferences - PHPeclipse - PHP - Code Templates
+ * 
+ * Annotation, May 5th, 2007: Appears this file was created for updating a 
+ * single page-table. Similar scripts, update_from_csv_... , are for taking concatenated
+ * fields and updating several tables.
  */
  
 require_once ('../app/app_setup.php');
